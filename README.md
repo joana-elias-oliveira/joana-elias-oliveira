@@ -58,8 +58,4 @@
 
 <img src="https://raw.githubusercontent.com/joana-elias-oliveira/joana-elias-oliveira/output/snake.svg" alt="Snake animation" />
 
-###
 
-<p align="left">Hello World!!</p>
-
-###
