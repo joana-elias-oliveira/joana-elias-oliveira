@@ -56,6 +56,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/joana-elias-oliveira/joana-elias-oliveira/output/snake.svg" alt="Snake animation" />
 
 
