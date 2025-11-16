@@ -12,10 +12,14 @@
     />
   </div>
 
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 15px;">
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joana-elias-oliveira&theme=dracula&hide_border=false"
-    width="65%"
+    style="width: 65%;"
   />
+
+</div>
+
 
   <br/>
 
@@ -25,8 +29,7 @@
 
 ###
 <div  width="65%">
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" margin-right="20px" />
 ###
 
 <div align="left">
